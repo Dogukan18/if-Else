@@ -1,0 +1,13 @@
+C:\Users\elado\source\repos\ifElse\ifElse\bin\Debug\netcoreapp3.1\ifElse.exe
+C:\Users\elado\source\repos\ifElse\ifElse\bin\Debug\netcoreapp3.1\ifElse.deps.json
+C:\Users\elado\source\repos\ifElse\ifElse\bin\Debug\netcoreapp3.1\ifElse.runtimeconfig.json
+C:\Users\elado\source\repos\ifElse\ifElse\bin\Debug\netcoreapp3.1\ifElse.runtimeconfig.dev.json
+C:\Users\elado\source\repos\ifElse\ifElse\bin\Debug\netcoreapp3.1\ifElse.dll
+C:\Users\elado\source\repos\ifElse\ifElse\bin\Debug\netcoreapp3.1\ifElse.pdb
+C:\Users\elado\source\repos\ifElse\ifElse\obj\Debug\netcoreapp3.1\ifElse.AssemblyInfoInputs.cache
+C:\Users\elado\source\repos\ifElse\ifElse\obj\Debug\netcoreapp3.1\ifElse.AssemblyInfo.cs
+C:\Users\elado\source\repos\ifElse\ifElse\obj\Debug\netcoreapp3.1\ifElse.csproj.CoreCompileInputs.cache
+C:\Users\elado\source\repos\ifElse\ifElse\obj\Debug\netcoreapp3.1\ifElse.dll
+C:\Users\elado\source\repos\ifElse\ifElse\obj\Debug\netcoreapp3.1\ifElse.pdb
+C:\Users\elado\source\repos\ifElse\ifElse\obj\Debug\netcoreapp3.1\ifElse.genruntimeconfig.cache
+C:\Users\elado\source\repos\ifElse\ifElse\obj\Debug\netcoreapp3.1\ifElse.csproj.AssemblyReference.cache
