@@ -7,13 +7,9 @@ namespace ifElse
         static void Main(string[] args)
         {
 
-            //İf-Else//
+          //if-else:kontrol mekanizmasıdır doğru ya da yanlış mantığıyla hareket eder.
 
-            //if-else:kontrol mekanizmasıdır doğru ya da yanlış mantığıyla hareket eder.
-
-            //---------------------------------------------------------------------------------------------------
-
-            //isim mehmet ise doğru değilse yanlış uyarısı veren uygulama.
+          //isim mehmet ise doğru değilse yanlış uyarısı veren uygulama.
 
             /*   string isim;
                 isim = "mehmet";
@@ -30,7 +26,7 @@ namespace ifElse
 
             //-------------------------------------------------------------------------------------------------
 
-            //Klavyeden girilen ismin doğrumu yanlışmı olduğunu söyleyen uygulama
+            //Klavyeden girilen ismin doğru mu yanlış mı olduğunu söyleyen uygulama
 
             /*    string isim;
                Console.Write("İsmi Giriniz: ");
